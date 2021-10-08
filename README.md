@@ -1,7 +1,7 @@
 <div align="center">
   
-## About
-Hello, I am an Application Support Specialist at Gordon College in Wenham, Massachusetts. I specialize in functional automation and web development, equally comfortable in PowerShell, and React.js, and PHP. I am currently working on a few projects, primarily a student-developed website for our campus body. Feel free to browse and explore, happy to have you here!
+## About Me
+Hi, I'm an Application Support Specialist in Wenham, Massachusetts. I specialize in functional automation and web development, equally comfortable in PowerShell, and React.js, and PHP. I am currently working on a few projects, primarily a student-developed website for our campus body. Feel free to browse and explore, happy to have you here!
 
 -------------------
 
