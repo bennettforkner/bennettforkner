@@ -6,7 +6,7 @@ Hello, I am an Application Support Specialist at Gordon College in Wenham, Massa
 -------------------
 
 ## Contact
-<a href="mailto:b4knah@gmail.com">![gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=%23ffffff)</a> <a href="https://www.github.com/bennettforkner/">![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=%23ffffff)</a> <a href="https://www.linkedin.com/in/bennettforkner/">![LinkedIn](https://img.shields.io/badge/LinkedIn-%232867B2.svg?style=for-the-badge&logo=linkedin&logoColor=%23ffffff)</a>
+<a target="_blank" href="mailto:b4knah@gmail.com">![gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=%23ffffff)</a> <a target="_blank" href="https://www.github.com/bennettforkner/">![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=%23ffffff)</a> <a target="_blank" href="https://www.linkedin.com/in/bennettforkner/">![LinkedIn](https://img.shields.io/badge/LinkedIn-%232867B2.svg?style=for-the-badge&logo=linkedin&logoColor=%23ffffff)</a>
 </a>
 
 -------------------
