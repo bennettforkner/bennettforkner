@@ -1,7 +1,7 @@
 <div align="center">
   
 ## About Me
-Hi, I'm an Application Support Specialist in Wenham, Massachusetts. I specialize in functional automation and web development, equally comfortable in a variety of scripting and web tools. I am currently working on a few projects, primarily on GitHub, a student-developed website for our campus body. Feel free to browse and explore, happy to have you here!
+Hi, I'm an Application Support Specialist in Wenham, Massachusetts. I specialize in functional automation and web development, equally comfortable in a variety of scripting and web tools. I am currently working on a few projects, primarily on GitHub, a student-developed website for our campus body, an application for tracking the status of network nodes, and a web-app for managing Windows Active Directory groups. Feel free to browse and explore, happy to have you here!
 
 -------------------
 
