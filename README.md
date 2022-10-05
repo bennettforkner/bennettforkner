@@ -16,9 +16,9 @@ Hi, I'm an Application Support Specialist in Wenham, Massachusetts, and a Part-T
   
 -------------------
 
-![BennettForkner github stats](https://github-readme-stats.vercel.app/api?username=bennettforkner&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=stars)
+![BennettForkner github stats](https://github-readme-stats.vercel.app/api?username=bennettforkner&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=stars&PAT_1)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bennettforkner&layout=compact&theme=dracula)](https://github.com/bennettforkner/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bennettforkner&layout=compact&theme=dracula&PAT_1)](https://github.com/bennettforkner/github-readme-stats)
 
 ![BennettForkner github streak](https://github-readme-streak-stats.herokuapp.com/?user=bennettforkner&theme=dracula&include_all_commits=true&count_private=true)
 
