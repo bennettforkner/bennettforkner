@@ -1,7 +1,7 @@
 <div align="center">
   
 ## About Me
-Hi, I'm an Application Support Specialist in Wenham, Massachusetts, and a Part-Time Consultant. I specialize in enterprise automation and web development, providing measurable benefits to my end-users. I am currently working on a few projects hosted on GitHub, a student-developed website for our campus body, an application for tracking the status of network nodes, and a web-app for managing Windows Active Directory groups. Feel free to browse and explore, happy to have you here!
+I'm an Application Support Specialist in Wenham, Massachusetts, and a Part-Time Consultant. I specialize in enterprise automation and web development, providing measurable benefits to my end-users. I am currently working on a few projects hosted on GitHub, a student-developed website for our campus body, an application for tracking the status of network nodes, and a web-app for managing Windows Active Directory groups. Feel free to browse and explore, happy to have you here!
 
 -------------------
 
@@ -27,4 +27,4 @@ Hi, I'm an Application Support Specialist in Wenham, Massachusetts, and a Part-T
 
 -----
 
-Last Edited on: 1/12/2023
+Updated: 6/6/2023
